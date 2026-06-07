@@ -1,0 +1,6 @@
+{
+  "name": "HR Recruitment Tracker",
+  "description": "A comprehensive recruitment management system for tracking job openings, candidate pipelines, interview evaluations, and AI-assisted job descriptions.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
